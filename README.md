@@ -12,10 +12,11 @@ Hi  👋, I’m Gülfem
 <img align="left" alt="C#" width="26px" src="https://img2.pngindir.com/20180831/iua/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b89919299aab1.1956912415357423546294.jpg" />
 <img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png" />
 
-```
-- Challange
+
+## Challange
+- Codewars
 <img align="left" alt="Codewars" width="26px" src="https://miro.medium.com/max/880/1*0pLbHKAulWnsx4U2MQyn2w.png" /> [Codewars](https://www.codewars.com/users/Gulfem)
 - HackerRank
 <img align="left" alt="HackerRank" width="26px" src="https://e7.pngegg.com/pngimages/891/900/png-clipart-logo-hackerrank-where-s-weed-java-hacker.png" /> [Codewars](https://www.hackerrank.com/gulfemisik_97)
-```
+
 
