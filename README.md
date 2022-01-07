@@ -8,6 +8,7 @@ Hi  👋, I’m Gülfem
 ### 🔧 Languages and Tools:
 <img align="left" alt="Python" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
 <img align="left" alt="HuggingFace" width="40px" src="https://images.squarespace-cdn.com/content/v1/56e2e0c520c6472a2586add2/1593683608007-L71NCKC2O54GFBHPB0W9/CP%2BLogos%2B2%2B%25288%2529.jpg" />
+<img align="left" alt="NLTK" width="32px" src="https://deeplab.co/assets/logos/artificial-intelligence/nltk.png" />
 <img align="left" alt="Scikit learning" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
 <img align="left" alt="Numpy" width="32px" src="https://www.btogrenme.com/wp-content/uploads/2021/03/numpy-1.png" />
 <img align="left" alt="Unity" width="40px" src="https://www.seekpng.com/png/detail/127-1274498_unity3d-unity-game-engine-logo.png" />
