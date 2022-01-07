@@ -15,7 +15,7 @@ Hi  👋, I’m Gülfem
 
 ### Challange
 - Codewars
-<img align="left" alt="Codewars" width="26px" src="https://www.codewars.com/assets/logos/logo-square-red-big-dark-text-2e091298050b4a55869eb3c7d02e5cd21561b042f7692401fd9e3a2409078c39.png" />[Codewars](https://www.codewars.com/users/Gulfem)
+<img align="left" alt="Codewars" width="18px" src="https://www.codewars.com/assets/logos/logo-square-red-big-dark-text-2e091298050b4a55869eb3c7d02e5cd21561b042f7692401fd9e3a2409078c39.png" />[Codewars](https://www.codewars.com/users/Gulfem)
 - HackerRank
 <img align="left" alt="HackerRank" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" /> [HackerRank](https://www.hackerrank.com/gulfemisik_97)
 <br />
