@@ -12,7 +12,7 @@ Hi  👋, I’m Gülfem
 <img align="left" alt="Numpy" width="32px" src="https://www.btogrenme.com/wp-content/uploads/2021/03/numpy-1.png" />
 <img align="left" alt="Unity" width="40px" src="https://www.seekpng.com/png/detail/127-1274498_unity3d-unity-game-engine-logo.png" />
 <img align="left" alt="Matlab" width="36px" src="https://banner2.cleanpng.com/20180703/yrf/kisspng-matlab-simulink-signal-processing-programming-lang-cube-island-online-survival-3d-5b3b394d2f1946.2068935715306079491929.jpg" />
-<img align="left" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png" />
+<img align="left" alt="Java" width="28px" src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png" />
 <img align="left" alt="Sql" width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaPW_QkdIN8LCGbN_3SmUiodR3tnjFGbxO8Q&usqp=CAU" />
 <img align="left" alt="C#" width="32px" src="https://img2.pngindir.com/20180831/iua/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b89919299aab1.1956912415357423546294.jpg" />
 <img align="left" alt="Github" width="32px" src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" />
