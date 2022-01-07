@@ -12,6 +12,7 @@ Hi  👋, I’m Gülfem
 <img align="left" alt="C#" width="26px" src="https://img2.pngindir.com/20180831/iua/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b89919299aab1.1956912415357423546294.jpg" />
 <img align="left" alt="Github" width="26px" src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" />
 <br />
+<br />
 
 ### Challange
 - Codewars
@@ -19,4 +20,4 @@ Hi  👋, I’m Gülfem
 - HackerRank
 <img align="left" alt="HackerRank" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" /> [HackerRank](https://www.hackerrank.com/gulfemisik_97)
 <br />
-<br />
+
