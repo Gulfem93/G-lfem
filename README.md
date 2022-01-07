@@ -6,7 +6,7 @@ Hi  👋, I’m Gülfem
 
 
 ### 🔧 Languages and Tools:
-[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />]
+[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />][Python]
 [<img align="left" alt="Unity" width="26px" src="https://e7.pngegg.com/pngimages/242/418/png-clipart-unity-video-game-logo-augmented-reality-game-engine-others-miscellaneous-angle.png" />]
 [<img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png" />]
 [<img align="left" alt="C#" width="26px" src="https://img2.pngindir.com/20180831/iua/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b89919299aab1.1956912415357423546294.jpg" />]
