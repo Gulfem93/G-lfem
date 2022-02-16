@@ -1,7 +1,7 @@
 Hi  👋, I’m Gülfem
   
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Data Scieng, NLP, Python
+- 🌱 I’m currently learning Data Scieng, NLP, İmage Processing, OpenCV, Python
 - 📫 How to reach me gulfemisik.97@gmail.com
 
 
