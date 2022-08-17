@@ -10,7 +10,7 @@ Hi  👋, I’m Gülfem
 <img align="left" alt="HuggingFace" width="32px" src="https://images.squarespace-cdn.com/content/v1/56e2e0c520c6472a2586add2/1593683608007-L71NCKC2O54GFBHPB0W9/CP%2BLogos%2B2%2B%25288%2529.jpg" />
 <img align="left" alt="NLTK" width="28px" src="https://deeplab.co/assets/logos/artificial-intelligence/nltk.png" />
 <img align="left" alt="Scikit learning" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />
-<img align="left" alt="Numpy" width="28px" src="https://medium.com/@orxanaliyev19/numpya-h%C4%B1zl%C4%B1-bir-ba%C5%9Flang%C4%B1%C3%A7-75d0fb1ab2b6" />
+<img align="left" alt="Numpy" width="28px" src="![image](https://user-images.githubusercontent.com/35203615/185158113-f615bd60-698d-4c31-887c-2e9613175be0.png)" />
 <img align="left" alt="Unity" width="28px" src="https://www.seekpng.com/png/detail/127-1274498_unity3d-unity-game-engine-logo.png" />
 <img align="left" alt="Matlab" width="28px" src="https://banner2.cleanpng.com/20180703/yrf/kisspng-matlab-simulink-signal-processing-programming-lang-cube-island-online-survival-3d-5b3b394d2f1946.2068935715306079491929.jpg" />
 <img align="left" alt="Java" width="28px" src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png" />
