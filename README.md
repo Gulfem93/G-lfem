@@ -3,7 +3,7 @@ Hi  👋, I’m Gülfem
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Data Scieng, NLP, İmage Processing, OpenCV, Python
 - 📫 How to reach me gulfemisik.97@gmail.com
-- How to my kaggle adress: https://www.kaggle.com/gulfemisik97
+- My kaggle address https://www.kaggle.com/gulfemisik97
 
 
 ### 🔧 Languages and Tools:
